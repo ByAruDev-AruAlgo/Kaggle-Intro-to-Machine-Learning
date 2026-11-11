@@ -25,8 +25,7 @@ This repository documents my progress through the course, with custom notes to r
 ```text
 kaggle-intro-machine-learning/
 ├── How Models Work
-│   ├── Kaggle Python - Notes 01.docx
-│   └── Kaggle Python - Solution 01.ipynb
+│   └── Kaggle Python - Notes 01.docx
 ├── Basic Data Exploration
 │   ├── Kaggle Python - Notes 02.docx
 │   └── Kaggle Python - Solution 02.ipynb
